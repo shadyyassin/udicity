@@ -1,1 +1,1 @@
-# udicity
+# udacity
